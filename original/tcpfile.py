@@ -1,6 +1,3 @@
-
-# original Python code by Raul Becerra
-
 import subprocess
 import traceback
 import time
